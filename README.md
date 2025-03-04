@@ -1,1 +1,1 @@
-# BE-Java-Sping-Demos
+- Spring initializr: https://start.spring.io/index.html
